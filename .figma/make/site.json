@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates eco-tourism bookings and promotions with interactive catalogs, real-time multi-currency payments, and admin tools to manage visitor capacity and prevent overbooking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
